@@ -73,3 +73,6 @@ class LenguajeIngles implements Lenguaje<number, string> {
 //La clase debe implementar generics class Contenedor<T>{}
 //para instanciarla: new Contenedor<Juguete | Ropa | Botella | Libro>();
 //y probarla
+
+
+//mi cambiao
