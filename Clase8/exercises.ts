@@ -1,6 +1,6 @@
 //Crea UNA función que te permita obtener la longitud de una cadena de caracteres o
 //de algún arreglo que se le pase, usando Generics
-
+//Aquí va la solución
 //Crea UNA función que reciba un dato de tipo boolean o string o number y
 //dependiendo del tipo imprima en consola "booleano" "cadena de caracteres" o "número"
 //Respectivamente, usando generics;
